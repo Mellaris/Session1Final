@@ -1,0 +1,63 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="session1.MainWindow"
+        Title="session1">
+	<StackPanel Background="Lavender">
+		<Grid
+			ColumnDefinitions="50, 50, 50, 50, 50, 50, 50"
+		  RowDefinitions="70, 50, 50, 50, 50, 50,34 ">
+			<Border Grid.ColumnSpan="7"
+					Grid.RowSpan="7"
+				Margin="10,20,0,0"
+		  BorderThickness="10"
+		  Background="White"
+		  CornerRadius="10, 40, 40, 40">
+				<TextBlock
+					Margin="140,0,0,0"
+					Foreground="DimGray"
+							  FontSize="34"
+							  Text="Sign in"
+							  HorizontalAlignment="Left"
+							  VerticalAlignment="Top"/>
+			</Border>
+			<TextBox AcceptsReturn="False"
+					 Grid.ColumnSpan="5"
+					 Grid.Row="1"
+					 Margin="60,40,0,0"
+					 Height="3"
+					 BorderBrush="White"
+					 Name="nameUser"
+				 Watermark="UserName"
+					/>
+			
+			<TextBox Name="password"
+				AcceptsReturn="False"
+				 Grid.ColumnSpan="5"
+					 Grid.Row="2"
+					 Margin="60,0,0,0"
+					 Height="3"
+					 BorderBrush="White"
+				 Watermark="Password"/>
+			<Button Click="Open"
+				Grid.ColumnSpan="3"
+				 Grid.Row="5"
+					 Width="115"
+					 Height="35"
+				 Margin="70,0,50,0"
+					 Background="Lavender">
+				<TextBlock VerticalAlignment="Center" Foreground="LightSlateGray" HorizontalAlignment="Center">
+					Войти
+				</TextBlock>
+			</Button>
+			<Button Click="Visitor" Background="Lavender" Grid.Column="3" Grid.Row="5" Width="150" Height="35" >
+				<TextBlock VerticalAlignment="Center" Foreground="LightSlateGray" HorizontalAlignment="Center">
+					Войти, как гость
+				</TextBlock>
+			</Button>
+		</Grid>
+	</StackPanel>
+
+</Window>

@@ -1,0 +1,69 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="750"
+        x:Class="session1.Basket"
+		x:CompileBindings="False"
+        Title="Basket"
+		Width="1000" Height="750">
+	<StackPanel Margin="10" Background="Lavender">
+
+
+		<Grid>
+			
+			<TextBlock Margin="15" DockPanel.Dock="Top" FontSize="20" Foreground="Blue">Корзина: </TextBlock>
+			<TextBlock Margin="0,10,0,0" Name="summa" Background="Beige" Width="150" Height="60">
+			</TextBlock>
+		</Grid>
+
+		<ListBox Height="600" x:Name="Products" SelectionMode="Multiple, Toggle" Background="Lavender">
+			<ListBox.ItemTemplate >
+				<DataTemplate >
+					<Border BorderBrush="Blue" BorderThickness="1"
+							CornerRadius="4" Padding="4">
+						<Grid ColumnDefinitions="200, * ,200">
+							<Border Width="200" Height="200" Grid.Column="0" Margin="20" BorderBrush="Blue" BorderThickness="1">
+								<Image Margin="10" Name="im" Source="{Binding ProductImage}" Width="200" Height="200"  />
+							</Border>
+							<Border Margin="20" Grid.Column="1" BorderBrush="Blue" BorderThickness="1">
+								<StackPanel>
+									<TextBlock Margin="10" Text="{Binding Name}"/>
+									<TextBlock>Описание товара: </TextBlock>
+									<TextBlock Margin="10" Text="{Binding Description}"/>
+									<TextBlock>Производитель: </TextBlock>
+									<TextBlock Margin="10" Text="{Binding Manufacturer}"/>
+									<TextBlock>Цена товара: </TextBlock>
+									<TextBlock Margin="10" Text="{Binding Price}"/>
+									<TextBlock>Измерение: </TextBlock>
+									<TextBlock Margin="10" Text="{Binding Measurement}"/>
+									<TextBlock>Категория товара: </TextBlock>
+									<TextBlock Margin="10" Text="{Binding Category}"/>
+								</StackPanel>
+							</Border>
+							<Border Margin="20" Grid.Column="2" BorderBrush="Blue" BorderThickness="1">
+								<TextBlock Text="{Binding Amount}"/>
+							</Border>
+
+							<Button Margin="10,40,0,0" Grid.Column="2" Click="Delete" Background="Lavender" Tag="{Binding id}"
+					 Width="150" Height="30" HorizontalAlignment="Center"
+		VerticalAlignment="Top">
+								<TextBlock HorizontalAlignment="Center" Foreground="Blue">
+									Удалить
+								</TextBlock>
+							</Button>
+
+
+						</Grid>
+					</Border>
+				</DataTemplate>
+			</ListBox.ItemTemplate>
+		</ListBox>
+
+		
+			<Button Click="Back" Background="Lavender" Grid.Column="4" Grid.Row="7" Margin="40,0,0,0">
+				<TextBlock Foreground="Blue">Назад</TextBlock>
+			</Button>
+	
+		</StackPanel>
+</Window>

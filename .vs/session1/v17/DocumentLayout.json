@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|f:\\\u0447\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0430\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\session1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|solutionrelative:session1\\session1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|f:\\\u0447\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0430\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\user.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|solutionrelative:session1\\user.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|f:\\\u0447\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0430\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\user.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|solutionrelative:session1\\user.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|f:\\\u0447\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0430\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\admin.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|solutionrelative:session1\\admin.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|f:\\\u0447\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0430\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\addendum.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|solutionrelative:session1\\addendum.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|f:\\\u0447\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0430\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\editt.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|solutionrelative:session1\\editt.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|f:\\\u0447\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0430\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\addendum.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|solutionrelative:session1\\addendum.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|f:\\\u0447\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0430\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|solutionrelative:session1\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|f:\\\u0447\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0430\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\editt.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|solutionrelative:session1\\editt.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|f:\\\u0447\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0430\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\basket.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|solutionrelative:session1\\basket.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|f:\\\u0447\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0430\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|solutionrelative:session1\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|f:\\\u0447\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0430\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|solutionrelative:session1\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|f:\\\u0447\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0430\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\admin.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|solutionrelative:session1\\admin.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|f:\\\u0447\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0430\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\basket.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{832C5A08-E849-4A0B-B71E-DF25574FA894}|session1\\session1.csproj|solutionrelative:session1\\basket.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "session1",
+              "DocumentMoniker": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\session1.csproj",
+              "RelativeDocumentMoniker": "session1\\session1.csproj",
+              "ToolTip": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\session1.csproj",
+              "RelativeToolTip": "session1\\session1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-10T18:38:29.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Addendum.axaml",
+              "DocumentMoniker": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\Addendum.axaml",
+              "RelativeDocumentMoniker": "session1\\Addendum.axaml",
+              "ToolTip": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\Addendum.axaml",
+              "RelativeToolTip": "session1\\Addendum.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-17T08:19:43.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Addendum.axaml.cs",
+              "DocumentMoniker": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\Addendum.axaml.cs",
+              "RelativeDocumentMoniker": "session1\\Addendum.axaml.cs",
+              "ToolTip": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\Addendum.axaml.cs",
+              "RelativeToolTip": "session1\\Addendum.axaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAowFcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:19:43.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.axaml.cs",
+              "DocumentMoniker": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\User.axaml.cs",
+              "RelativeDocumentMoniker": "session1\\User.axaml.cs",
+              "ToolTip": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\User.axaml.cs",
+              "RelativeToolTip": "session1\\User.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:35:19.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductInfo.cs",
+              "DocumentMoniker": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\ProductInfo.cs",
+              "RelativeDocumentMoniker": "session1\\ProductInfo.cs",
+              "ToolTip": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\ProductInfo.cs",
+              "RelativeToolTip": "session1\\ProductInfo.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA0wB8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:19:50.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Basket.axaml.cs",
+              "DocumentMoniker": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\Basket.axaml.cs",
+              "RelativeDocumentMoniker": "session1\\Basket.axaml.cs",
+              "ToolTip": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\Basket.axaml.cs",
+              "RelativeToolTip": "session1\\Basket.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T08:10:50.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Basket.axaml",
+              "DocumentMoniker": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\Basket.axaml",
+              "RelativeDocumentMoniker": "session1\\Basket.axaml",
+              "ToolTip": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\Basket.axaml",
+              "RelativeToolTip": "session1\\Basket.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T08:10:50.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Editt.axaml.cs",
+              "DocumentMoniker": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\Editt.axaml.cs",
+              "RelativeDocumentMoniker": "session1\\Editt.axaml.cs",
+              "ToolTip": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\Editt.axaml.cs",
+              "RelativeToolTip": "session1\\Editt.axaml.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAjwGYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:18:27.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Editt.axaml",
+              "DocumentMoniker": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\Editt.axaml",
+              "RelativeDocumentMoniker": "session1\\Editt.axaml",
+              "ToolTip": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\Editt.axaml",
+              "RelativeToolTip": "session1\\Editt.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T10:18:27.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.axaml.cs",
+              "DocumentMoniker": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\Admin.axaml.cs",
+              "RelativeDocumentMoniker": "session1\\Admin.axaml.cs",
+              "ToolTip": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\Admin.axaml.cs",
+              "RelativeToolTip": "session1\\Admin.axaml.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAjwFcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:04:26.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.axaml",
+              "DocumentMoniker": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\User.axaml",
+              "RelativeDocumentMoniker": "session1\\User.axaml",
+              "ToolTip": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\User.axaml",
+              "RelativeToolTip": "session1\\User.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-17T09:35:19.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Admin.axaml",
+              "DocumentMoniker": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\Admin.axaml",
+              "RelativeDocumentMoniker": "session1\\Admin.axaml",
+              "ToolTip": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\Admin.axaml",
+              "RelativeToolTip": "session1\\Admin.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-17T07:04:26.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "session1\\MainWindow.axaml.cs",
+              "ToolTip": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\MainWindow.axaml.cs",
+              "RelativeToolTip": "session1\\MainWindow.axaml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAA/wDMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:56:24.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "session1\\MainWindow.axaml",
+              "ToolTip": "F:\\\u0427\u0435\u0440\u043D\u043E\u0432\u0438\u043A\u0438 \u0410\u0432\u0430\u043B\u043E\u043D\u0438\u044F\\session1\\session1\\MainWindow.axaml",
+              "RelativeToolTip": "session1\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T06:56:26.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
